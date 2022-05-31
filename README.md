@@ -6,7 +6,7 @@ Adhering to a consistent style guide is something we all love to do as programme
 
 Sometimes, however, we can slip up and let small differences in our style exist throughout our codebase. The problem arises when codebases get bigger and bigger over time, and small inconsistencies creep in over the years.
 
-This project uses TypeScript, Jest, Bootstrap, SASS, ESLint, Prettier, Husky and VS Code to style a Next.JS project using Google's TypeScript Style Guide, it also has extensive test coverage using Jest, React Testing Library and Playwright.<br><br>
+This project use TypeScript, Bootstrap, SASS, ESLint, Prettier, Husky and VS Code to style a Next.JS project using Google's TypeScript Style Guide, it also has extensive test coverage using Jest, React Testing Library and Playwright.<br><br>
 
 # In this project you will have:
 
